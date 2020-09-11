@@ -10,7 +10,6 @@ import OndemandVideo from '@material-ui/icons/OndemandVideo';
 import HomeWork from '@material-ui/icons/HomeWork';
 import PeopleAlt from '@material-ui/icons/PeopleAlt';
 import SportsEsports from '@material-ui/icons/SportsEsports';
-
 import { Grid } from '@material-ui/core';
 import MidHeadSingleBtn from './MidHeadSingleBtn';
 

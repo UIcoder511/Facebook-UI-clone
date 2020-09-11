@@ -8,7 +8,7 @@ const useStyles=makeStyles(theme=>({
     
     btn:{
         opacity:0.7,
-        
+
     },
     gridNavBtn:{
         cursor:'pointer',
